@@ -1,0 +1,124 @@
+.block_ {
+    background-color: #FFF;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 9.75pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 12.8pt;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_1 {
+    background-color: #FFF;
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 15pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_2 {
+    background-color: #FFF;
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 12pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 12pt;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.block_3 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 1.08;
+    margin-bottom: 8pt;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.calibre {
+    color: #000;
+    display: block;
+    font-family: "Calibri", sans-serif;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    line-height: 1.2
+    }
+.calibre2 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre3 {
+    font-style: italic;
+    line-height: 1.2
+    }
+.text_ {
+    color: #000;
+    line-height: 1.2
+    }
+.text_1 {
+    color: #000;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text_2 {
+    color: #000;
+    font-weight: bold;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.text_3 {
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text_4 {
+    color: #000;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text_5 {
+    color: #000;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.text_6 {
+    color: #000;
+    line-height: 1.2;
+    text-decoration: none
+    }
+
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+
